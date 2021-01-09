@@ -1,0 +1,12 @@
+.movie{
+    width: 100px;
+    padding: 5px;
+}
+.movie img{
+    width: 90px;
+    height: 120px;
+}
+
+.movie p{
+    font-size: small;
+}

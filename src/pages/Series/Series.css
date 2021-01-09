@@ -1,0 +1,7 @@
+.series-list{
+    position: relative;
+    margin: 20px 60px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    clear: both;
+}
